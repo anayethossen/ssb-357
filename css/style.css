@@ -1,0 +1,459 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    border-bottom:1px solid rgb(29, 26, 26);
+}
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+overflow: hidden;
+
+padding: 27px 0px;
+}
+
+.logo{width: 20%;float: left;}
+
+.logo img{width: 37%;}
+nav{
+
+width: 40%;
+
+float: right;
+}
+
+nav ul{
+
+list-style: none;
+
+margin-left: 34px;
+}
+
+nav ul li{
+    
+float: left;
+    
+margin-left: 37px;
+    
+font-size: 25px;
+}
+
+.content{
+
+width: 60%;
+
+
+margin-left: 20%;
+
+text-align: center;
+}
+
+.content h1{
+
+text-transform: capitalize;
+
+font-size: 35px;
+
+color: black;
+
+margin-top: 30px;
+}
+
+.content h2{
+
+text-transform: capitalize;
+
+font-size: 31px;
+
+color: blue;
+
+margin-top: 4px;
+}
+
+.content p{
+
+font-size: 20px;
+
+color: black;
+
+margin-top: 7px;
+}
+.content img{
+    
+}
+.success{
+
+width: 70%;
+
+margin: auto;
+
+overflow: hidden;
+
+margin-top: 100px;
+
+margin-bottom: 100px;
+}
+
+.success-left-content{
+
+width: 48%;
+
+float: left;
+
+text-align: right;
+}
+.success-left-content h1{
+
+color: #cddc39;
+
+font-size: 77px;
+
+}
+
+
+.success-left-content p{
+
+color: black;
+
+font-size: 22px;
+
+}
+
+.success-right-content{
+
+width: 48%;
+
+float: right;
+}
+
+
+.success-right-content h1{
+    
+color: black;
+    
+font-size: 91px;
+}
+
+.you{
+
+width: 90%;
+
+margin: auto;
+
+overflow:hidden;
+
+margin-bottom: 100px;
+}
+
+.you-one{
+
+width: 30%;
+
+float: left;
+
+text-align: center;
+
+padding: 30px 11px;
+}
+
+
+.you-two{
+
+width: 30%;
+
+float: left;
+
+margin-left: 3%;
+
+padding: 30px 11px;
+
+color: black;
+}
+.you-three{
+    
+width: 30%;
+    
+float: right;
+    
+padding: 30px 11px;
+    
+}
+.you-one img, .you-two img, .you-three img{
+
+width: 100%;
+
+}
+.you-one h1, .you-two h1, .you-three h1{
+
+font-size: 21px;
+
+text-align: left;
+
+color: black;
+
+margin: 30px 8px;
+}
+.you-one p{
+    
+font-size: 16px;
+    
+text-align: left;
+    
+color: black;
+}
+
+footer{
+
+/* width: 100%; */
+
+background-color: blue;
+
+text-align: center;
+
+padding: 40px 0px;
+
+/* text-transform: capitalize; */
+}
+
+footer p{
+
+font-size: 23px;
+
+color: black;
+
+text-transform: capitalize;
+}
+
+footer p span{
+    
+color: white;
+    
+text-transform: capitalize;
+    
+font-size: 26px;
+    
+font-width: 700px;
+    
+letter-spacing: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
